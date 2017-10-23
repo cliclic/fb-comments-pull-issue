@@ -2,6 +2,7 @@
   "name": "fb-comments-pull",
   "version": "0.1.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "react": "^16.0.0",
     "react-addons-update": "^15.6.2",
